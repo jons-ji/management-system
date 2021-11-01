@@ -24,3 +24,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # management-system
 # management-system
+# management-system
